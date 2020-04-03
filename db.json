@@ -1,1 +1,16 @@
 
+{
+    street:StreetAddress,
+    unit:unitNumber,
+    zip:zipcode,
+    area:realArea,
+    type:realAptType,
+    bedroom:gettingBedrooms,
+    bathroom:gettingBathrooms,
+    pets:gettingPetsPolicy,
+    availability:availabilityExp,
+    apartmentPrice:aptPriceToNumber,
+    description:writeDescription
+
+
+}
