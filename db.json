@@ -1,10 +1,9 @@
-
 {
     street:StreetAddress,
     unit:unitNumber,
     zip:zipcode,
     area:realArea,
-    type:realAptType,
+    aparmentType:realAptType,
     bedroom:gettingBedrooms,
     bathroom:gettingBathrooms,
     pets:gettingPetsPolicy,
